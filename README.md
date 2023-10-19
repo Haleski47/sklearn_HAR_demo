@@ -1,10 +1,10 @@
-Install enviroments  for windows.
+# Install enviroments  for windows.
 
-1. install python:
+# install python:
 	a) go to: https://www.python.org/downloads/ 
 	b) download the latest version. i download 3.12.0
 	c) install python-3.12.0-amd64.exe
-2. install numpy, scipy, matplotlib, sklearn and other packages
+# install numpy, scipy, matplotlib, sklearn and other packages
 	a) press "win + r"  and input "cmd"
 	b) py -m pip install numpy
 	c) py -m pip install  scipy
@@ -16,5 +16,5 @@ Install enviroments  for windows.
 you can check the enviroment by run test_enviroment.py or diretly double click test_enviroment.py
 	a) py test_enviroment.py
 	
-3. the HAR demo is in HAR directory.
+# the HAR demo is in HAR directory.
 	a) run sklearn_har.py to test the demo
